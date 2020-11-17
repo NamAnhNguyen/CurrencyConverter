@@ -14,7 +14,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 import java.util.ArrayList;
 
-public class CurrencyConvert extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
 
     Spinner spUSD, spUnit;
     ArrayAdapter<String> arrayAdapter;
